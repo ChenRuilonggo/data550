@@ -4,15 +4,16 @@ author: Ruilong Chen
 output: github_document
 ---
 
-#my first commit
+# my first commit
 
 Here is some text that constitute my first commit in my first repo.
 
+_here ome txt on the test branch
 
-#my second commit
+# my second commit
 
 Here is more text that will be added in my second commit.
 
 
-#my third commit
+# my third commit
 here is the text for my third commit
